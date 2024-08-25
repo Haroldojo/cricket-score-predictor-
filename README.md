@@ -1,9 +1,3 @@
-# cricket-score-predictor-
-
-Absolutely! Here’s a more user-friendly and engaging README for your cricket score predictor project:
-
----
-
 # Cricket Score Predictor
 
 Welcome to the Cricket Score Predictor project! This tool uses historical cricket match data to predict future match scores. Whether you're a cricket fan or a data enthusiast, this project offers a fun way to see how machine learning can forecast game outcomes.
